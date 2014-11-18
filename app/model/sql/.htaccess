@@ -1,0 +1,8 @@
+#Indica que não aparecerá a lista de arquivos existentes na página
+#Options -Indexes 
+
+#Define a ordem de "prioridade" entre deny e allow. Nesse caso, qualquer regra ambígua, dará prioridade para Deny
+#Order Deny,Allow 
+
+#Bloqueio qualquer tipo de acesso externo.
+#Deny from All 

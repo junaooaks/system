@@ -1,0 +1,4 @@
+#AuthType Basic
+#  AuthName "TITULO DA JANELA"
+#  AuthUserFile "/home/usuario/.htpasswds/public_html/admin/passwd"
+#  require valid-user

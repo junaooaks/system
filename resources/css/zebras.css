@@ -1,0 +1,10 @@
+.simples{
+    border-collapse: collapse;
+}
+.simples tr td {border:1px solid #CCCCCC;}
+
+
+
+
+/******************************************************************************/
+/* hovered table rows */
